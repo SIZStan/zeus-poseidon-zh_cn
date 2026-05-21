@@ -105,7 +105,7 @@
         <string id="50">需要青铜</string>
         <string id="51">军械库和雕塑工作室需要青铜。</string>
         <string id="52">需要橄榄</string>
-        <string id="53">橄榄压榨机需要橄榄</string>
+        <string id="53">榨油坊需要橄榄</string>
         <string id="54">需要葡萄</string>
         <string id="55">酒庄需要葡萄</string>
         <string id="56">需要小麦</string>
@@ -117,7 +117,7 @@
         <string id="62">青铜无法生产或进口</string>
         <string id="63">军械库和雕塑工作室已被拆除。</string>
         <string id="64">橄榄不能生产或进口</string>
-        <string id="65">橄榄压榨机已被拆除。</string>
+        <string id="65">榨油坊已被拆除。</string>
         <string id="66">葡萄不能生产或进口</string>
         <string id="67">酒庄已被拆除。</string>
         <string id="68">小麦无法生产或进口</string>
@@ -689,7 +689,7 @@
         <string id="196">艺术家需要青铜来雕刻</string>
         <string id="197">葡萄酒商需要葡萄来酿造葡萄酒</string>
         <string id="198">种植葡萄树</string>
-        <string id="199">橄榄压榨机需要橄榄来榨油</string>
+        <string id="199">榨油坊需要橄榄来榨油</string>
         <string id="200">种植橄榄树</string>
         <string id="201">需要[warning_amount]块大理石板</string>
         <string id="202">建造一个砖石店来切割它</string>
@@ -747,8 +747,8 @@
         <string id="254">建造另一个畜栏</string>
         <string id="255">牧场主需要牛来争吵</string>
         <string id="256">将一些牛放在草地上</string>
-        <string id="257">将此部分连接到现有的竞技场</string>
-        <string id="258">人行横道必须设置在竞技场上方</string>
+        <string id="257">将此部分连接到现有的战车竞技场</string>
+        <string id="258">人行横道必须设置在战车竞技场上方</string>
         <string id="259">这里不能设置人行横道！</string>
     </group>
     <group id="20">
@@ -925,7 +925,7 @@
     </group>
     <group id="23">
         <string id="0">无</string>
-        <string id="1">顽童</string>
+        <string id="1">海胆</string>
         <string id="2">鱼</string>
         <string id="3">肉</string>
         <string id="4">奶酪</string>
@@ -1074,7 +1074,7 @@
         <string id="51">木材厂</string>
         <string id="52">工作坊</string>
         <string id="53">酒厂</string>
-        <string id="54">橄榄压榨机</string>
+        <string id="54">榨油坊</string>
         <string id="55">雕塑工作室</string>
         <string id="56">工匠行会</string>
         <string id="57">粮仓</string>
@@ -1219,8 +1219,8 @@
         <string id="196">MAP_MARSHLAND</string>
         <string id="197">MAP_SAND_DUNE</string>
         <string id="198">MAP_DISEMBARK_POINT</string>
-        <string id="199">竞技场</string>
-        <string id="200">竞技场</string>
+        <string id="199">战车竞技场</string>
+        <string id="200">战车竞技场</string>
         <string id="201">人行横道</string>
         <string id="202">图书馆</string>
         <string id="203">天文台</string>
@@ -1231,10 +1231,10 @@
         <string id="208">天文学</string>
         <string id="209">技术</string>
         <string id="210">MAP_DEER_POINT</string>
-        <string id="211">炼油厂</string>
+        <string id="211">冶炼坊</string>
         <string id="212">战车厂</string>
         <string id="213">黑色大理石工作坊</string>
-        <string id="214">橙色招标旅馆</string>
+        <string id="214">橙园工舍</string>
         <string id="215">战车商人</string>
         <string id="216">畜栏</string>
         <string id="217">橙树</string>
@@ -2053,14 +2053,14 @@
         <string id="75">灾难第 6 部分</string>
         <string id="76">灾难第 7 部分</string>
         <string id="77">灾难第 8 部分</string>
-        <string id="78">顽童点1</string>
-        <string id="79">顽童点2</string>
-        <string id="80">顽童点3</string>
-        <string id="81">顽童点4</string>
-        <string id="82">顽童点5</string>
-        <string id="83">顽童点6</string>
-        <string id="84">顽童点7</string>
-        <string id="85">顽童点8</string>
+        <string id="78">海胆点1</string>
+        <string id="79">海胆点2</string>
+        <string id="80">海胆点3</string>
+        <string id="81">海胆点4</string>
+        <string id="82">海胆点5</string>
+        <string id="83">海胆点6</string>
+        <string id="84">海胆点7</string>
+        <string id="85">海胆点8</string>
         <string id="86">怪物点1</string>
         <string id="87">怪物点2</string>
         <string id="88">怪物点3</string>
@@ -2665,7 +2665,7 @@
         <string id="24">开采的银</string>
         <string id="25">总收入</string>
         <string id="26">总费用</string>
-        <string id="27">竞技场</string>
+        <string id="27">战车竞技场</string>
     </group>
     <group id="61">
         <string id="0">城市概况</string>
@@ -3169,7 +3169,7 @@
         <string id="0">允许的结构</string>
         <string id="1">薄荷</string>
         <string id="2">狩猎小屋</string>
-        <string id="3">橄榄压榨机</string>
+        <string id="3">榨油坊</string>
         <string id="4">大集市</string>
         <string id="5">钓鱼码头</string>
         <string id="6">畜栏</string>
@@ -3210,7 +3210,7 @@
         <string id="41">军械库</string>
         <string id="42">特里尔梅码头</string>
         <string id="43">精英住房</string>
-        <string id="44">竞技场</string>
+        <string id="44">战车竞技场</string>
         <string id="45">战车厂</string>
         <string id="46">高大的方尖碑</string>
         <string id="47">晷</string>
@@ -3545,7 +3545,7 @@
         <string id="69">这种炽热的熔岩会烧毁其路径上的任何东西。当心！</string>
         <string id="70">这块冰冷的岩石曾经是熔岩。没有任何东西可以建立在它之上。</string>
         <string id="71">该采石场拥有丰富的黑色大理石供应。建造黑色大理石工坊来收获它。</string>
-        <string id="72">这是神秘的山铜矿。一旦它在精炼厂转化为山铜金属，就可以用来装饰建筑物。</string>
+        <string id="72">这是神秘的山铜矿。一旦它在冶炼坊转化为山铜金属，就可以用来装饰建筑物。</string>
     </group>
     <group id="71">
         <string id="0">中型金字塔</string>
@@ -3833,7 +3833,7 @@
         <string id="42">女猎手阿尔忒弥斯将这座纪念碑赐予你，感谢你协助为兽苑收集动物。</string>
         <string id="43">好战的阿瑞斯将这座信物赐予你，感谢你取回那件伟大武器缺失的部分。</string>
         <string id="44">阿佛洛狄忒为青春之泉欣喜，兴奋地向你献上这座美丽的纪念碑。</string>
-        <string id="45">盗贼之神赫尔墨斯将这座纪念碑赐予你，使众人铭记伟大英雄窃取奥利哈康、削弱敌国防务之时。</string>
+        <string id="45">盗贼之神赫尔墨斯将这座纪念碑赐予你，使众人铭记伟大英雄窃取山铜、削弱敌国防务之时。</string>
         <string id="46">智慧的雅典娜将这座纪念碑捐给城市，纪念取回金马勒的伟大英雄。</string>
         <string id="47">为使众人铭记狡黠英雄破坏可怕武器的光荣时刻，赫淮斯托斯将这座纪念碑赐予城市。</string>
         <string id="48">狄俄尼索斯欣喜地将这座纪念碑赐予你，感谢你利用敌人的醉酒混乱，为狄俄尼索斯的子民半人马复仇。</string>
@@ -3845,7 +3845,7 @@
         <string id="54">女猎手阿尔忒弥斯将这座宏伟纪念碑赐予你，感谢你协助为兽苑收集动物。</string>
         <string id="55">好战的阿瑞斯将这座宏伟纪念碑赐予你，感谢你取回那件伟大武器缺失的部分。</string>
         <string id="56">阿佛洛狄忒为青春之泉欣喜，兴奋地向你献上这座美丽的宏伟纪念碑。</string>
-        <string id="57">盗贼之神赫尔墨斯将这座宏伟纪念碑赐予你，使众人铭记伟大英雄窃取奥利哈康、削弱敌国防务之时。</string>
+        <string id="57">盗贼之神赫尔墨斯将这座宏伟纪念碑赐予你，使众人铭记伟大英雄窃取山铜、削弱敌国防务之时。</string>
         <string id="58">智慧的雅典娜将这座宏伟纪念碑捐给城市，纪念取回金马勒的伟大英雄。</string>
         <string id="59">为使众人铭记狡黠英雄破坏可怕武器的光荣时刻，赫淮斯托斯将这座宏伟纪念碑赐予城市。</string>
         <string id="60">狄俄尼索斯欣喜地将这座宏伟纪念碑赐予你，感谢你利用敌人的醉酒混乱，为狄俄尼索斯的子民半人马复仇。</string>
@@ -4015,10 +4015,10 @@
         <string id="2">几篮鱼</string>
         <string id="3">几块肉</string>
         <string id="4">几轮奶酪</string>
-        <string id="5">几蒲式耳胡萝卜</string>
+        <string id="5">几筐胡萝卜</string>
         <string id="6">几桶洋葱</string>
         <string id="7">几捆小麦</string>
-        <string id="8">几蒲式耳橙子</string>
+        <string id="8">几筐橙子</string>
         <string id="9">几块木板</string>
         <string id="10">几根青铜锭</string>
         <string id="11">几块大理石板</string>
@@ -4027,7 +4027,7 @@
         <string id="14">几束羊毛</string>
         <string id="15">几匹马</string>
         <string id="16">几块黑色大理石板</string>
-        <string id="17">几块奥利哈康锭</string>
+        <string id="17">几块山铜锭</string>
         <string id="18">几套铠甲</string>
         <string id="19">几件雕塑</string>
         <string id="20">几罐橄榄油</string>
@@ -4123,7 +4123,7 @@
         <string id="4">这里的猎人正在休息，要么猎物已猎尽，要么他们到不了猎物所在。</string>
         <string id="5">这座乳品场有牧羊人，却找不到山羊。要么城中没有山羊，要么牧羊人到不了牧场。</string>
         <string id="6">牧羊人拒绝离开梳毛棚。要么城中没有绵羊，要么牧羊人到不了牧场。</string>
-        <string id="7">这里的矿工急于开采奥利哈康矿。可惜，要么通往矿脉的路被挡住，要么没有矿石。</string>
+        <string id="7">这里的矿工急于开采山铜矿。可惜，要么通往矿脉的路被挡住，要么没有矿石。</string>
         <string id="8">这里的牧场主很想放牛，可惜要么城中没有牛，要么牧场主到不了牛群。</string>
     </group>
     <group id="106">
@@ -4172,16 +4172,16 @@
     </group>
     <group id="109">
         <string id="0">冶炼坊</string>
-        <string id="1">冶炼坊的工人开采神秘的奥利哈康矿石，将其炼成神奇的金属。</string>
+        <string id="1">冶炼坊的工人开采神秘的山铜矿石，将其炼成神奇的金属。</string>
         <string id="2">储存</string>
-        <string id="3">奥利哈康。</string>
-        <string id="4">你已下令奥利哈康冶金师停止开采。</string>
-        <string id="5">冶炼坊一片寂静。没有工人，无法生产奥利哈康。</string>
-        <string id="6">冶金师人手充足，正以最快速度生产奥利哈康。</string>
-        <string id="7">这座冶炼坊还缺几名冶金师。奥利哈康产量略为下降。</string>
-        <string id="8">这座冶炼坊还缺好几名冶金师。生产奥利哈康要花更长时间。</string>
-        <string id="9">这里只有几名冶金师。将奥利哈康矿石炼成金属需要很长时间。</string>
-        <string id="10">这座冶炼坊几乎无法运转。需要更多工人才能高效生产奥利哈康。</string>
+        <string id="3">山铜。</string>
+        <string id="4">你已下令山铜冶金师停止开采。</string>
+        <string id="5">冶炼坊一片寂静。没有工人，无法生产山铜。</string>
+        <string id="6">冶金师人手充足，正以最快速度生产山铜。</string>
+        <string id="7">这座冶炼坊还缺几名冶金师。山铜产量略为下降。</string>
+        <string id="8">这座冶炼坊还缺好几名冶金师。生产山铜要花更长时间。</string>
+        <string id="9">这里只有几名冶金师。将山铜矿石炼成金属需要很长时间。</string>
+        <string id="10">这座冶炼坊几乎无法运转。需要更多工人才能高效生产山铜。</string>
     </group>
     <group id="110">
         <string id="0">神谕所？神殿放这里？</string>
@@ -5507,11 +5507,11 @@
         <string id="8">你需要宫殿才能派驻塔楼守军。</string>
         <string id="9">你需要道路连接宫殿才能派驻塔楼守军。</string>
         <string id="10">你城市的塔楼奉命不派驻守军。使用军事标签派驻所有塔楼。</string>
-        <string id="11">要让这座塔楼更致命，进口一些奥利哈康，以便向入侵者发射致命的亚特兰蒂斯之火。</string>
-        <string id="12">要启用亚特兰蒂斯之火，请开采并冶炼奥利哈康。</string>
-        <string id="13">你正在囤积奥利哈康，无法运抵这座塔楼。奥利哈康送达前，塔楼无法发射亚特兰蒂斯之火。</string>
-        <string id="14">塔楼等待奥利哈康运抵，以便向敌人发射致命的亚特兰蒂斯之火。</string>
-        <string id="15">这座塔楼装备了致命的亚特兰蒂斯之火发射器，以神秘的奥利哈康驱动。</string>
+        <string id="11">要让这座塔楼更致命，进口一些山铜，以便向入侵者发射致命的亚特兰蒂斯之火。</string>
+        <string id="12">要启用亚特兰蒂斯之火，请开采并冶炼山铜。</string>
+        <string id="13">你正在囤积山铜，无法运抵这座塔楼。山铜送达前，塔楼无法发射亚特兰蒂斯之火。</string>
+        <string id="14">塔楼等待山铜运抵，以便向敌人发射致命的亚特兰蒂斯之火。</string>
+        <string id="15">这座塔楼装备了致命的亚特兰蒂斯之火发射器，以神秘的山铜驱动。</string>
     </group>
 
     <group id="171">
@@ -5620,11 +5620,11 @@
         <string id="39">你需要宫殿才能征召护卫舰。</string>
         <string id="40">为这座护卫舰船坞配备人员。</string>
         <string id="41">遣散船坞工人。</string>
-        <string id="42">进口奥利哈康，以便这艘护卫舰建造致命的亚特兰蒂斯之火发射器。</string>
-        <string id="43">若在冶炼坊生产奥利哈康，这艘护卫舰可建造亚特兰蒂斯之火发射器。</string>
-        <string id="44">你正在囤积奥利哈康。收到奥利哈康前，这艘护卫舰无法向敌人倾泻亚特兰蒂斯之火。</string>
-        <string id="45">奥利哈康一旦运抵这座船坞，其护卫舰即可向敌人倾泻炽热的亚特兰蒂斯之火。</string>
-        <string id="46">这座船坞的护卫舰装备了亚特兰蒂斯之火发射器，由我们的科学家以神秘奥利哈康制造。</string>
+        <string id="42">进口山铜，以便这艘护卫舰建造致命的亚特兰蒂斯之火发射器。</string>
+        <string id="43">若在冶炼坊生产山铜，这艘护卫舰可建造亚特兰蒂斯之火发射器。</string>
+        <string id="44">你正在囤积山铜。收到山铜前，这艘护卫舰无法向敌人倾泻亚特兰蒂斯之火。</string>
+        <string id="45">山铜一旦运抵这座船坞，其护卫舰即可向敌人倾泻炽热的亚特兰蒂斯之火。</string>
+        <string id="46">这座船坞的护卫舰装备了亚特兰蒂斯之火发射器，由我们的科学家以神秘山铜制造。</string>
     </group>
 
     <group id="176">
@@ -5658,17 +5658,17 @@
         <string id="4">工匠需要雕塑供应此项工程，但目前没有可用雕塑。</string>
         <string id="5">工匠需要大理石供应此项工程，但目前没有可用大理石。</string>
         <string id="6">工匠需要黑大理石供应此项工程，但目前没有可用黑大理石。</string>
-        <string id="7">工匠需要奥利哈康供应此项工程，但目前没有可用奥利哈康。</string>
+        <string id="7">工匠需要山铜供应此项工程，但目前没有可用山铜。</string>
         <string id="8">你正在囤积工匠继续建造所需的木材！</string>
         <string id="9">你正在囤积工匠继续建造所需的雕塑！</string>
         <string id="10">你正在囤积工匠继续建造所需的大理石！</string>
         <string id="11">你正在囤积工匠继续建造所需的黑大理石！</string>
-        <string id="12">你正在囤积工匠继续建造所需的奥利哈康！</string>
+        <string id="12">你正在囤积工匠继续建造所需的山铜！</string>
         <string id="13">工匠等待木材供应，但无法送达。也许工地未用道路连接供应处，或单个仓库储存的木材不足。</string>
         <string id="14">工匠需要雕塑供应，但无法送达。也许工地未用道路连接供应处，或单个仓库储存的雕塑不足。</string>
         <string id="15">工匠需要大理石供应，但无法送达。也许工地未用道路连接供应处，或单个仓库储存的大理石不足。</string>
         <string id="16">工匠需要黑大理石供应，但无法送达。也许工地未用道路连接供应处，或单个仓库储存的黑大理石不足。</string>
-        <string id="17">工匠需要奥利哈康供应，但无法送达。也许工地未用道路连接供应处，或单个仓库储存的奥利哈康不足。</string>
+        <string id="17">工匠需要山铜供应，但无法送达。也许工地未用道路连接供应处，或单个仓库储存的山铜不足。</string>
         <string id="18">工匠正在为圣所庭院铺设大理石地砖。</string>
         <string id="19">工匠正在建造圣所神庙。</string>
         <string id="20">工匠正在雕刻[god]雕像。</string>
@@ -5685,13 +5685,13 @@
         <string id="31">[amount]批木材。</string>
         <string id="32">[amount]件雕塑。</string>
         <string id="33">[amount]件雕塑。</string>
-        <string id="34">[amount]批奥利哈康。</string>
-        <string id="35">[amount]批奥利哈康。</string>
+        <string id="34">[amount]批山铜。</string>
+        <string id="35">[amount]批山铜。</string>
         <string id="36">此项工程所需材料已全部运抵</string>
         <string id="37">工匠正在铺设构成金字塔核心的大理石。</string>
         <string id="38">工匠正在铺设构成金字塔核心的黑大理石。</string>
-        <string id="39">工匠正在为已完成的层做收尾，将大理石打磨光亮并添加奥利哈康装饰。</string>
-        <string id="40">工匠正在为已完成的层做收尾，将黑大理石打磨光亮并添加奥利哈康装饰。</string>
+        <string id="39">工匠正在为已完成的层做收尾，将大理石打磨光亮并添加山铜装饰。</string>
+        <string id="40">工匠正在为已完成的层做收尾，将黑大理石打磨光亮并添加山铜装饰。</string>
         <string id="41">能工巧匠正在建造巧妙的木制升降机，将物资沿金字塔侧面运上。</string>
         <string id="42">工匠辛勤劳作，确保金字塔顶端与整体一样华美。</string>
     </group>
