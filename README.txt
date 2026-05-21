@@ -15,3 +15,6 @@ https://github.com/EAX94/Zeus_Poseidon_Resolutions
 
 作者：SIZ_Stan
 https://github.com/SIZStan
+
+两个xml文件是游戏内的固定文本，使用AI翻译，可能有不准确的问题，如果想要贡献准确的翻译直接提交相关PR之后，我会进行eng输出更新
+Model内的Zeus eventmsg.txt也是一些游戏文本，注意，游戏采用@L @P等字符进行分段和起标题，具体请参考游戏内效果
