@@ -5,5 +5,8 @@
 
 交流群:8755087
 
+2560x1440DATA图片来自
+https://github.com/EAX94/Zeus_Poseidon_Resolutions
+
 作者：SIZ_Stan
 https://github.com/SIZStan
